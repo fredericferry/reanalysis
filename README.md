@@ -1,5 +1,5 @@
 # reanalysis
-Plot maps from global reanalysis data
+Study the climatology of the atmosphere from global NCEP reanalysis data
 
 Note 1 : This code was developed for educationnal purposes, and for French students. So the comments in the notebook are in French but the graphics and legends are in English.
 
