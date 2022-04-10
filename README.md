@@ -16,7 +16,6 @@ ftp://ftp.cdc.noaa.gov/Datasets/ncep.reanalysis.derived/surface/slp.mon.mean.nc 
 Precipitations : ftp://ftp.cdc.noaa.gov/Datasets/gpcp/precip.mon.mean.nc
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
-
+![u_zmean_climatology2](https://user-images.githubusercontent.com/76565450/162641985-2460ea50-add4-4ee3-b0f8-3cdccce4ea91.png)
 ![zuv925_global_climatology](https://user-images.githubusercontent.com/76565450/162591591-4e6bc0ec-ac68-4c1c-8bfd-48e3e46b5e1a.png)
 ![precip_monclim](https://user-images.githubusercontent.com/76565450/162591595-8e1b433d-88f5-4498-95b4-3311540dbe63.gif)
-![psi_zmean_monclim](https://user-images.githubusercontent.com/76565450/162591599-acb219df-cb8a-488a-ac0a-cb2f5756d0fb.gif)
